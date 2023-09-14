@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  InterfaceBuilderBasics
-//
+//  This sick app is built by Mac Lee
 //  Created by Macintosh on 2023/09/14.
 //
 
